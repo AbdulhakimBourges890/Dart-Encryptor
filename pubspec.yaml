@@ -1,0 +1,10 @@
+name: dartencryptor
+description: A Dart script to securely encrypt and decrypt files using AES-GCM, with key generation and password-based key derivation.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  cryptography: any
+

@@ -1,0 +1,4 @@
+Password: supersecure123
+Salt (base64): 1VMOmKP5EdCgp1f1sP4R2w==
+Derived key (base64): RVjhgTJUhE+TUxKHTmkK0fXzggmvhi1ov9wWY36vT0w=
+
